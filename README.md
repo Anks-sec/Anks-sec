@@ -2,13 +2,15 @@
 <h3 align="center"><font face="Arial"><br>  A cybersecurity enthusiast exploring ethical hacking, network analysis, vulnerability assessment, and web security.</font></h3>📍 Pune, India<br>
 
 
+## Resume:
+[![Download](https://img.shields.io/badge/Download-777BB4?logo=Download&logoColor=white)](mailto:ankleshwar1818@gmail.com) 
 
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ankleshwar-vishwakarma-96b9a4265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankleshwar1818@gmail.com) 
 
-## Skills
+## Skills:
 
 ### Network
 <div>

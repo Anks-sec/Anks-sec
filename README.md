@@ -3,7 +3,7 @@
 
 
 ## Resume:
-[![Download](https://img.shields.io/badge/Download-777BB4?logo=Download&logoColor=white)](mailto:ankleshwar1818@gmail.com) 
+[![Download](https://img.shields.io/badge/Download-777BB4?logo=Download&logoColor=white)](https://github.com/Anks-sec/Anks-sec/blob/main/Cyber_1_resume%20(2).pdf) 
 
 
 
